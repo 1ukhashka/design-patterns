@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/design-patterns-02-structural" isTestSource="false" packagePrefix="io.github._1ukhashka.designpatterns.structural" />
+      <sourceFolder url="file://$MODULE_DIR$/design-patterns-03-behavioral" isTestSource="false" packagePrefix="io.github._1ukhashka.designpatterns.behavioral" />
+      <sourceFolder url="file://$MODULE_DIR$/design-patterns-04-lambda" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/design-patterns-05-functional" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/design-patterns-06-dependency" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/design-patterns-07-rx" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
